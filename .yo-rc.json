@@ -1,0 +1,7 @@
+{
+  "generator-angular2-library": {
+    "promptValues": {
+      "gitRepositoryUrl": "https://github.com/CFourPO/ng2-dynamic-forms.git"
+    }
+  }
+}
